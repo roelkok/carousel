@@ -14,4 +14,3 @@ Inspiration for features to focus on:
 - Transitions
 - Drag/pan carousel
 - ...
-test
