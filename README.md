@@ -12,4 +12,5 @@ Inspiration for features to focus on:
 - Skip slides/Forward to slides
 - Responsive
 - Transitions
+- Drag/pan carousel
 - ...
