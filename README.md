@@ -13,4 +13,6 @@ Inspiration for features to focus on:
 - Responsive
 - Transitions
 - Drag/pan carousel
+- Create from existing markup in the document
+- Take JSON as input and generate all the mark up dynamically
 - ...
